@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AniketL2003
+- 👋 Hi, I’m Aniket Lamkhade
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning WebFlow
 - 💞️ I’m looking to collaborate on ...
