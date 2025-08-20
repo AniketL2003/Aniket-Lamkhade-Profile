@@ -106,7 +106,9 @@
 
 
   
-- 😄 Pronouns: He/Him
+- 😄 Pronouns:
+
+     He/Him
 
 
 
