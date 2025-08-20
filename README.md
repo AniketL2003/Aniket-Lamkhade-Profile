@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Lamkhade
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning WebFlow
+- 🌱 I’m currently working as a UI/UX Designer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  https://aniket-lamkhade-ui-ux-portfolio-site.vercel.app
 - 😄 Pronouns: ...
